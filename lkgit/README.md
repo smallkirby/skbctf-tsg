@@ -14,11 +14,11 @@ nc skbctf.skb.pw 25252
 
 ## Score
 
-200
+300
 
 ## Data ID
 
-3
+4
 
 ## Distributions
 
