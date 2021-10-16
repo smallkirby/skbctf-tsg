@@ -22,4 +22,4 @@ nc skbctf.skb.pw 20009
 
 ## Distributions
 
-[https://github.com/smallkirby/skbctf-tsg/raw/master/intro-buf/intro-buf.tar.gz](https://github.com/smallkirby/skbctf-tsg/raw/master/intro-buf/intro-buf.tar.gz)
+[https://github.com/smallkirby/skbctf-tsg/raw/master/intro-bof/intro-bof.tar.gz](https://github.com/smallkirby/skbctf-tsg/raw/master/intro-bof/intro-bof.tar.gz)
